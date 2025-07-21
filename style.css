@@ -44,7 +44,7 @@ p {
 
 /*HEADER*/
 .bg-imageheader {
-  background-image: url(images/bg-header-desktop.png);
+  background-image: url(/images/bg-header-desktop.png);
   padding: 10rem;
   background-position: center;
   background-repeat: no-repeat;
